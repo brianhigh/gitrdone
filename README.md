@@ -8,3 +8,9 @@ Git and R workflow example
 * Add
 * Commit
 * Push
+
+## Additional commands
+
+* Status
+* Log
+* Diff
