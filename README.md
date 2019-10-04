@@ -4,7 +4,7 @@ Git and R workflow example
 ## Workflow
 
 * Clone
-* Pully
+* Pull
 * Add
 * Commit
 * Push
